@@ -1,0 +1,7 @@
+{
+  "name": "fbl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
